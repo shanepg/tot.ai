@@ -1,0 +1,51 @@
+[
+  {
+    "author": "Recollect",
+    "authorUsername": "shadcn",
+    "version": "1",
+    "name": "tot.ai",
+    "description": ""
+  },
+  {
+    "author": "Luis Filipe",
+    "authorUsername": "luisFilipePT",
+    "version": "1",
+    "name": "Nord",
+    "description": "An arctic, north-bluish color palette."
+  },
+  {
+    "author": "Joana Santos",
+    "authorUsername": "joanamcs",
+    "version": "1",
+    "name": "Gold",
+    "description": "A warm and inviting color palette of rich browns and shimmering golds."
+  },
+  {
+    "author": "Luis Filipe",
+    "authorUsername": "luisFilipePT",
+    "version": "1",
+    "name": "Nature",
+    "description": "A soothing palette of soft yellows, greens, and blues."
+  },
+  {
+    "author": "Luis Filipe",
+    "authorUsername": "luisFilipePT",
+    "version": "1",
+    "name": "Netflix",
+    "description": "A bold color palette of black, white, and fiery red."
+  },
+  {
+    "author": "Luis Filipe",
+    "authorUsername": "luisFilipePT",
+    "version": "1",
+    "name": "Laracon",
+    "description": "A vibrant color palette celebrating Laracon US 2023."
+  },
+  {
+    "author": "Daniel Sousa",
+    "authorUsername": "tutods",
+    "version": "1",
+    "name": "Dracula",
+    "description": "A dark theme using Dracula colors, a popular theme on IDEs and more. Light theme adapted from original colors."
+  }
+]
